@@ -19,3 +19,6 @@ It has a Clustered Bar Chart with Year on X-Axis and Profit on Y-Axis showing Pr
 
 And Lastly, It has a Area Chart showing Months on X-Axis and Profit on Y-Axis showing profit Monthly.
 
+![Screenshot (3)](https://github.com/user-attachments/assets/79f159d2-17dc-41a4-b349-bd22af00b292)
+
+
