@@ -5,7 +5,7 @@ I made this Finance Dashboard in Power BI with the Finance Dataset
 
 Problem Statement
 
-The goal of this Power BI Dashboard Project is to analyze the financial performance of a company using the provided Microsoft Sample Data.
+The goal of this Power BI Dashboard Project is to analyze the financial performance of a company
 
 Sections in the Report
 
